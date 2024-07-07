@@ -1,20 +1,20 @@
 VERSION="2.2.1"
 
-ACCOUNTS=["GAL53RRAZEMYPCAZC6YEJFNA46FGQ3YIIW5HOGXU2TGLN4CGQYEINVDA"]
+ACCOUNTS=["GAY2HYXMC7DY6HKP5JQLLGRB4IV3ZLYVLEAFHCURX62XHFY2GI2EBLUE"]
 
 [DOCUMENTATION]
-ORG_NAME="NVIDIA"
-ORG_URL="https://www.stellar-nvda.com/"
-ORG_DESCRIPTION="NVIDIA invents the GPU and drives advances in AI, HPC, gaming, creative design, autonomous vehicles, and robotics."
-ORG_LOGO="https://www.stellar-nvda.com/nvda.png"
+ORG_NAME="Blue Origin"
+ORG_URL="https://www.blueorigin-stellar.com/"
+ORG_DESCRIPTION="Blue Origin was founded by Jeff Bezos with the vision of enabling a future where millions of people are living and working in space for the benefit of Earth"
+ORG_LOGO="https://www.blueorigin-stellar.com/blue.png"
 
 
 [[CURRENCIES]]
-code="NVDA"
+code="BLUE"
 status="live"
 display_decimals=4
-issuer="GAL53RRAZEMYPCAZC6YEJFNA46FGQ3YIIW5HOGXU2TGLN4CGQYEINVDA"
+issuer="GAY2HYXMC7DY6HKP5JQLLGRB4IV3ZLYVLEAFHCURX62XHFY2GI2EBLUE"
 anchor_asset_type="crypto"
-name="NVIDIA"
-desc="NVIDIA invents the GPU and drives advances in AI, HPC, gaming, creative design, autonomous vehicles, and robotics."
-image="https://www.stellar-nvda.com/nvda.png"
+name="Blue Origin"
+desc="Blue Origin was founded by Jeff Bezos with the vision of enabling a future where millions of people are living and working in space for the benefit of Earth"
+image="https://www.blueorigin-stellar.com/blue.png"
